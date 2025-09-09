@@ -1,0 +1,6 @@
+@AiMoodCompanion.Api_HostAddress = http://localhost:5168
+
+GET {{AiMoodCompanion.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
